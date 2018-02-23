@@ -103,3 +103,7 @@ footer form {
   margin-left: 2rem;
   display: inline;
 }
+
+.print-only{
+display: none;
+}
